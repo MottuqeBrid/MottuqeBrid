@@ -1,6 +1,28 @@
 <h1 align="center">Hi 👋, I'm Md. Mottuqe Brid</h1>
 <h3 align="center">A passionate frontend developer from Khulna, Bangladesh</h3>
 
+🎓 I’m currently an undergraduate student in the **Statistics discipline at Khulna University**.  
+💻 I’m a **junior web developer** passionate about building responsive and user-friendly full-stack web applications.
+
+### 🚀 Skills & Technologies
+
+- **Frontend:** HTML, CSS, React, Next.js, Tailwind CSS  
+- **Backend:** Node.js, Express.js, Firebase, MongoDB, Mongoose  
+- **Tools:** Git, GitHub, Vercel, Postman, VS Code
+
+### 🌱 Currently Exploring
+
+- 📚 Diving deeper into **Next.js** and its powerful features like SSR, SSG, and API routes  
+- 🛠️ Building full-stack projects to enhance my development workflow
+
+### 🎯 Goals
+
+- ✅ Master full-stack development with Next.js and MongoDB  
+- ✅ Contribute to open-source projects  
+- ✅ Build real-world applications that solve problems
+
+---
+
 - 🔭 I’m currently working on [NoteHub](https://notehub.toytree.top)
 
 - 🌱 I’m currently learning **React,NextJs, Nodejs, Express, MongoDB**

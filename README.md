@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Khulna, Bangladesh</h3>
 
 🎓 I’m currently an undergraduate student in the **Statistics discipline at Khulna University**.  
-💻 I’m a **junior web developer** passionate about building responsive and user-friendly full-stack web applications.
+💻 I’m a **junior web developer** passionate about building responsive and user-friendly frontend web applications.
 
 ### 🚀 Skills & Technologies
 

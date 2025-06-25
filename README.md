@@ -1,18 +1,8 @@
 <h1 align="center">Hi 👋, I'm Md. Mottuqe Brid</h1>
 <h3 align="center">A passionate frontend developer from Khulna, Bangladesh</h3>
 
-### Hi there 👋, Hi 👋, I'm Md. Mottuqe Brid
-#### A passionate frontend developer from Khulna, Bangladesh
+
 ![A passionate frontend developer from Khulna, Bangladesh](https://github.com/MottuqeBrid/MottuqeBrid/blob/main/baner.jpg)
-
-🎓 I’m currently an undergraduate student in the Statistics discipline at Khulna University.
-💻 I’m a junior web developer passionate about building responsive and user-friendly full-stack web applications.
-
-- 🔭 I’m currently working on this page. 
-
-
-
-
 
 
 
